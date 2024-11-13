@@ -6,7 +6,7 @@
 #
 #    1- Divide: If the array has more than one element, split it into two halves.
 #
-#    2- Recursion: Recursively sort each half.
+#    2- 4- Recursion: Recursively sort each half.
 #
 #    3- Merge: Combine the two sorted halves into a single sorted array.
 

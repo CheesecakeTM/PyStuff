@@ -11,7 +11,7 @@
 #    2-Partitioning: Rearrange the array so that elements less than the pivot are on the left
 #                    and elements greater than the pivot are on the right.
 #
-#    3- Recursion: Recursively apply the above steps to the left and right sub-arrays.
+#    3- 4- Recursion: Recursively apply the above steps to the left and right sub-arrays.
 
 
 # EXAMPLE USE CASE

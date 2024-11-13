@@ -10,7 +10,7 @@ def calc(a, b, op):
         # On the division there is the condition to check division by zero
 
     }.get(op, "Invalid operation")
-    # Retrieve the value from the dictionary based on the "op" argument
+    # Return the value from the dictionary based on the key "op"
     # If "op" is not valid "Invalid operation" is returned
 
 
