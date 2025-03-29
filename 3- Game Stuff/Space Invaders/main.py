@@ -45,6 +45,7 @@ def reset_game():
     game_functions.bullet_x = 0
     game_functions.bullet_y = 480
     score_value = 0
+
     for i in range(num_of_enemies):
         enemy_x[i] = random.randint(0, 735)
         enemy_y[i] = random.randint(50, 150)
